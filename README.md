@@ -11,4 +11,4 @@
 
 ![Текст с описанием картинки](/images/755540270893657.jpg)
 
-theme: minima
+remote_theme: benbalter/rentlab
